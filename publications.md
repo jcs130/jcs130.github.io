@@ -30,7 +30,8 @@ title: 论文与期刊
 
 ### 中文期刊
 《一种手机平台控制的轮式探测机器人的设计与实现》  
-- 本地副本：[下载 PDF](./papers/journal_undergraduate.pdf)
+- 期刊版：[下载 PDF](./papers/journal_undergraduate.pdf)
+- 完整原稿版：[下载 PDF](./papers/journal_undergraduate_full.pdf) （内容更详细）
 - 备注：期刊信息（期号/页码/链接）后续补齐
 
 ### 本科毕业论文
