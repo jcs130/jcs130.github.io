@@ -25,8 +25,8 @@ title: 首页
 ---
 
 ## 导航
-- [Writing](./writing.html) — 近期文章与回答(重点)
-- [Journey](./journey.html) — 方法论与成长轨迹
-- [Publications](./publications.html) — 论文与期刊
-- [Evidence / Archive](./evidence.html) — 视频、早期博客与项目资料库
-- [Contact](./contact.html) — 联系方式
+- [Writing](./writing) — 近期文章与回答(重点)
+- [Journey](./journey) — 方法论与成长轨迹
+- [Publications](./publications) — 论文与期刊
+- [Evidence / Archive](./evidence) — 视频、早期博客与项目资料库
+- [Contact](./contact) — 联系方式
