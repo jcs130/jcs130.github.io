@@ -37,3 +37,5 @@ title: 论文与期刊
 ### 本科毕业论文
 《基于 WiFi 信号的定位》  
 - 本地副本：[下载 PDF](./papers/thesis_undergraduate_wifi.pdf)
+
+> 关键词：WiFi室内定位、信号强度指纹、位置估算、无线传感网络；探索基于WiFi信号强度的室内定位方法，通过采集和分析WiFi信号特征实现位置识别与定位。
