@@ -1,0 +1,167 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 自定义样式 */
+
+/* 整体页面优化 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  line-height: 1.8;
+  color: #333;
+}
+
+/* 标题样式优化 */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+h1 {
+  padding-bottom: 0.5em;
+  border-bottom: 3px solid #159957;
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #e1e4e8;
+}
+
+/* 链接样式优化 */
+a {
+  color: #159957;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: #0d5d36;
+  text-decoration: underline;
+}
+
+/* 引用块样式 */
+blockquote {
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-left: 4px solid #159957;
+  background: #f8f9fa;
+  color: #555;
+  font-style: normal;
+}
+
+blockquote p {
+  margin: 0.5em 0;
+}
+
+/* 代码块样式 */
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 90%;
+  background-color: rgba(27,31,35,0.05);
+  border-radius: 3px;
+}
+
+/* 列表样式优化 */
+ul, ol {
+  padding-left: 2em;
+  margin: 1em 0;
+}
+
+li {
+  margin: 0.5em 0;
+}
+
+/* 导航链接卡片化 */
+.page-header + p {
+  margin-top: 2em;
+}
+
+/* 快速链接样式 */
+strong + ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  list-style: none;
+  padding: 0;
+}
+
+strong + ul li {
+  background: #f6f8fa;
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  border: 1px solid #e1e4e8;
+  transition: all 0.3s ease;
+}
+
+strong + ul li:hover {
+  background: #e1e4e8;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* 视频容器 */
+video {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 1.5em 0;
+}
+
+/* 精选文章区域 */
+h2 + ul {
+  background: #fff;
+  padding: 1.5em;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin: 1.5em 0;
+}
+
+/* PDF 下载链接样式 */
+a[href$=".pdf"] {
+  display: inline-block;
+  padding: 0.4em 1em;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white !important;
+  border-radius: 6px;
+  font-weight: 500;
+  margin: 0.3em 0.3em 0.3em 0;
+  transition: all 0.3s ease;
+}
+
+a[href$=".pdf"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  text-decoration: none;
+}
+
+/* 响应式优化 */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  
+  h1 {
+    font-size: 1.8em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+}
+
+/* 打印样式优化 */
+@media print {
+  video {
+    display: none;
+  }
+  
+  a[href$=".pdf"] {
+    background: none;
+    color: #159957 !important;
+    padding: 0;
+  }
+}
