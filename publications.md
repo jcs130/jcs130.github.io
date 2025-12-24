@@ -7,20 +7,22 @@ title: 论文与期刊
 
 ## Graduate Research / 研究生阶段
 
-### M.A.Sc Thesis (University of Ottawa, 2016)
+## M.A.Sc Thesis (University of Ottawa, 2016)
 **Towards a Cloud-based Data Analysis and Visualization System**  
 - 类型：硕士学位论文（M.A.Sc Thesis）  
 - 机构：University of Ottawa  
-- 下载/条目：https://ruor.uottawa.ca/handle/10393/35030
+- 学校存档链接：[https://ruor.uottawa.ca/handle/10393/35030](https://ruor.uottawa.ca/handle/10393/35030)
+- 本地副本：[下载 PDF](./papers/thesis_ma_2016.pdf)
 
-> 关键词：多源数据采集、云端存储与计算、清洗与结构化、标注/分析、可视化与交互式展示；以“项目驱动”方式打通端到端数据闭环。
+> 关键词：多源数据采集、云端存储与计算、清洗与结构化、标注/分析、可视化与交互式展示；以"项目驱动"方式打通端到端数据闭环。
 
 ### Journal Article
 **City digital pulse: a cloud based heterogeneous data analysis platform**  
 - 期刊：Multimedia Tools and Applications (Springer)  
 - Online publication：2016-11-11；Volume 76, pages 10893–10916 (2017)  
-- DOI：10.1007/s11042-016-4038-2  
-- 链接：https://link.springer.com/article/10.1007/s11042-016-4038-2
+- DOI：[10.1007/s11042-016-4038-2](https://doi.org/10.1007/s11042-016-4038-2)  
+- Springer链接：[查看论文](https://link.springer.com/article/10.1007/s11042-016-4038-2)
+- 本地副本：[下载 PDF](./papers/journal_mtap_2017.pdf)
 
 > 关键词：异构城市数据平台、情感/话题等分析、可视化仪表盘；与 thesis 一脉相承，是对外更标准的可引用版本。
 
