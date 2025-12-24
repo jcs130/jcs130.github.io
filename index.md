@@ -30,8 +30,8 @@ title: Home
 ---
 
 ## Start Here
-- [Writing](./writing) — 近期文章与回答(重点)
-- [Journey](./journey) — 方法论与成长轨迹
-- [Publications](./publications) — Thesis / Journal / Papers
-- [Evidence / Archive](./evidence) — 视频、早期博客与项目资料库
-- [Contact](./contact)
+- [Writing](./writing.html) — 近期文章与回答(重点)
+- [Journey](./journey.html) — 方法论与成长轨迹
+- [Publications](./publications.html) — Thesis / Journal / Papers
+- [Evidence / Archive](./evidence.html) — 视频、早期博客与项目资料库
+- [Contact](./contact.html)
