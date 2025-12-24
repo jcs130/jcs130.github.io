@@ -20,16 +20,25 @@ title: 成长轨迹
 - Android 早期自学移动端开发;在学校尚未系统教授嵌入式前,自学嵌入式 Linux 与硬件相关开发。
 - 典型佐证:WiFi 遥控小车系列博客与公开视频(见 Evidence)。
 
+**WiFi 视频遥控小车演示（大二作品，2012年）**
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hz421i7S5&page=1&high_quality=1" 
+        width="100%" height="500" 
+        scrolling="no" border="0" frameborder="no" framespacing="0" 
+        allowfullscreen="true">
+</iframe>
+
 ### 研究生:更聚焦算法与工程交付(视觉/NLP/数据平台)
 - 以项目驱动方式进入图像处理与视觉定位工程:OpenNI2 + ArUco + OpenCV,并以 CUDA 加速满足实时指标;通过配置化与模块化交付满足集成需求。
 - 学习 NLP 相关课程后,以项目为驱动完成 City Digital Pulse:首次系统性跑通"采集—清洗—存储—标注—训练—评估—可视化应用"的完整闭环。
 
 **研究生毕业自我介绍视频**
 
-<video width="100%" controls>
-  <source src="./media/intro_graduate.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。[点击下载视频](./media/intro_graduate.mp4)
-</video>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Dcv8e7EW4&page=1&high_quality=1" 
+        width="100%" height="500" 
+        scrolling="no" border="0" frameborder="no" framespacing="0" 
+        allowfullscreen="true">
+</iframe>
 
 ### 阿里巴巴:在成熟商业化大数据体系内锤炼生产级能力
 - 在商业化数据环境中持续打磨数据工程、数据分析与数据产品体系能力,将"闭环工程"方法扩展到更大规模与更高稳定性约束下。

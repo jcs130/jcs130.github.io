@@ -8,6 +8,12 @@ title: 证据资料库
 这里汇总早期项目、公开视频与博客文章,作为成长轨迹的佐证材料。它们不是主页重点,但为"兴趣驱动、自驱学习、项目闭环"提供可核验证据。
 
 ## 视频
+
+### B站视频
+- [WiFi 视频遥控小车（大二作品，2012年）](https://www.bilibili.com/video/BV1hz421i7S5/)
+- [研究生毕业自我介绍视频](https://www.bilibili.com/video/BV1Dcv8e7EW4/)
+
+### YouTube 视频（早期）
 - [WiFi 控制小车](https://youtu.be/1w794VhO18U)
 - [手机控制机械臂/舵机](https://youtu.be/arZyowR416I)
 - [OpenNI2 + ArUco + OpenCV(视觉项目演示)](https://youtu.be/4oOp5pFJzqw)
