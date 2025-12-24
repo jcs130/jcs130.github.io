@@ -30,8 +30,9 @@ title: 论文与期刊
 
 ### 中文期刊
 《一种手机平台控制的轮式探测机器人的设计与实现》  
+- 本地副本：[下载 PDF](./papers/journal_undergraduate.pdf)
 - 备注：期刊信息（期号/页码/链接）后续补齐
 
 ### 本科毕业论文
 《基于 WiFi 信号的定位》  
-- 备注：原文暂缺（后续可补摘要/扫描件/复现实验说明）
+- 本地副本：[下载 PDF](./papers/thesis_undergraduate_wifi.pdf)
