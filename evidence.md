@@ -7,17 +7,17 @@ title: 证据资料库
 
 这里汇总早期项目、公开视频与博客文章,作为成长轨迹的佐证材料。它们不是主页重点,但为"兴趣驱动、自驱学习、项目闭环"提供可核验证据。
 
-## 视频 (YouTube)
+## 视频
 - [WiFi 控制小车](https://youtu.be/1w794VhO18U)
 - [手机控制机械臂/舵机](https://youtu.be/arZyowR416I)
 - [OpenNI2 + ArUco + OpenCV(视觉项目演示)](https://youtu.be/4oOp5pFJzqw)
 - [iBlackboard(远程系统演示)](https://youtu.be/7k4HdNN1j4Y)
 - [CV + 机械臂控制](https://youtu.be/S4oPurYKtlQ)
 
-## 早期博客 (Iteye)
+## 早期博客
 - [博客主页](https://jcs130.iteye.com/)
-- 编程入门与项目学习(2011):Java 学习总结、棋类游戏算法、多线程、团队项目等
-- WiFi 遥控小车系列(2012):
+- 编程入门与项目学习 (2011): Java 学习总结、棋类游戏算法、多线程、团队项目等
+- WiFi 遥控小车系列 (2012):
   - [(一)](https://www.iteye.com/blog/1702097)
   - [(二)](https://www.iteye.com/blog/1702355)
   - [(三)](https://www.iteye.com/blog/1702705)
