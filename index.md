@@ -33,5 +33,5 @@ title: Home
 - [Writing](./writing) — 近期文章与回答(重点)
 - [Journey](./journey) — 方法论与成长轨迹
 - [Publications](./publications) — Thesis / Journal / Papers
-- [Evidence / Archive](./evidence) — 视频、早期博客与项目证据库
+- [Evidence / Archive](./evidence) — 视频、早期博客与项目资料库
 - [Contact](./contact)
