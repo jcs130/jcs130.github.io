@@ -13,6 +13,10 @@ title: 首页
 - Blog (CSDN): [https://blog.csdn.net/jcs130?type=blog](https://blog.csdn.net/jcs130?type=blog)
 - Email: lzl1992@hotmail.com
 
+**核心入口**
+- [Publications](./publications) — 研究生论文与期刊
+- [Patents](./patents) — 专利与系统化实践
+
 ---
 
 ## 精选文章（知乎）
@@ -28,5 +32,6 @@ title: 首页
 - [Writing](./writing) — 近期文章与回答(重点)
 - [Journey](./journey) — 方法论与成长轨迹
 - [Publications](./publications) — 论文与期刊
+- [Patents](./patents) — 专利列表与关键词
 - [Evidence / Archive](./evidence) — 视频、早期博客与项目资料库
 - [Contact](./contact) — 联系方式
