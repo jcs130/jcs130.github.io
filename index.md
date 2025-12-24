@@ -10,8 +10,8 @@ title: Home
 **Quick Links**
 - Zhihu: https://www.zhihu.com/people/li-zhong-li-66
 - GitHub: https://github.com/jcs130
-- Blog (Iteye): https://jcs130.iteye.com/
-- Email: （填你的邮箱）
+- Blog (CSDN): https://blog.csdn.net/jcs130?type=blog
+- Email: lzl1992@hotmail.com
 
 ---
 
